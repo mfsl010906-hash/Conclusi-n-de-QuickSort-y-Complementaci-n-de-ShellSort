@@ -12,7 +12,8 @@
 ## Descripción del Proyecto
 1. Clase QuickSort: Utiliza la estrategia de "Divide y Vencerás", seleccionando un pivote y particionando el arreglo de manera recursiva. 
 2. Main Quick: Clase principal de ejecución. Llama al método de ordenamiento Quicksort (desde el índice 0 hasta arreglo.length - 1
-3. clase 
+3. clase ShellSort: Es una optimización del ordenamiento por inserción directa que permite comparar e intercambiar elementos separados por intervalos (gaps) mayores a uno, reduciéndolos progresivamente.
+4. Main ShellSort: Proporciona un punto de ejecución independiente para probar, validar y visualizar en la consola el funcionamiento del algoritmo ShellSort.
 
 Ambos algoritmos representan enfoques algorítmicos avanzados que superan las limitaciones de los métodos elementales de ordenamiento cuadrático (tales como Burbuja, Selección o Inserción simple), los cuales resultan imprácticos al procesar arreglos de gran escala debido a su complejidad temporal de orden O(n2 ). 
 
@@ -20,7 +21,7 @@ Ambos algoritmos representan enfoques algorítmicos avanzados que superan las li
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/mfsl010906-hash/IMPLEMENTACION-DE-REGRESION-LINEAL-POR-MINIMOS-CUADRADOS.git]
+   git clone []
    cd IMPLEMENTACION-DE-REGRESION-LINEAL-POR-MINIMOS-CUADRADOS
    ```
 
