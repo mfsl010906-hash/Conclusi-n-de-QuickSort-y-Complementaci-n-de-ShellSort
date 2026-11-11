@@ -10,9 +10,11 @@
 - **IDE Sugerido:** NetBeans, Eclipse, IntelliJ IDEA o VS Code.
 
 ## Descripción del Proyecto
-La regresión lineal simple es un método estadístico y numérico que permite modelar la relación funcional entre una variable independiente (X) y una variable dependiente (Y).
-1. Clase Regresion Lineal: Esta clase agrupa los métodos necesarios para calcular una línea de tendencia estadística usando el método de mínimos cuadrados, así como coeficientes de correlación y capacidad de predicción.
-2. Main: verifica que las fórmulas implementadas en la otra clase devuelvan los valores correctos utilizando datos conocidos de entrada.
+1. Clase QuickSort: Utiliza la estrategia de "Divide y Vencerás", seleccionando un pivote y particionando el arreglo de manera recursiva. 
+2. Main Quick: Clase principal de ejecución. Llama al método de ordenamiento Quicksort (desde el índice 0 hasta arreglo.length - 1
+3. clase 
+
+Ambos algoritmos representan enfoques algorítmicos avanzados que superan las limitaciones de los métodos elementales de ordenamiento cuadrático (tales como Burbuja, Selección o Inserción simple), los cuales resultan imprácticos al procesar arreglos de gran escala debido a su complejidad temporal de orden O(n2 ). 
 
 
 ## Instrucciones de Ejecución
