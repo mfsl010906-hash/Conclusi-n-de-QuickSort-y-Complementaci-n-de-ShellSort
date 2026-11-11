@@ -42,9 +42,23 @@ Ambos algoritmos representan enfoques algorítmicos avanzados que superan las li
 ---
 
 ## Salida de Consola
+**Quicksort:**
+- Arreglo original:
+- [6, 1, 5, 8, 3, 2, 7, 4]
+- Arreglo ordenado con Quicksort:
+- [1, 2, 3, 4, 5, 6, 7, 8]
 
+- Process finished with exit code 0
+
+**ShellSort:** 
+- Arreglo original (ShellSort):
+-[6, 1, 5, 8, 3, 2, 7, 4]
+- Arreglo ordenado con ShellSort:
+- [1, 2, 3, 4, 5, 6, 7, 8]
+
+- Process finished with exit code 0
 
 ## conclucion
-El algoritmo cumple perfectamente su propósito matemático: las fórmulas de mínimos cuadrados funcionan de manera correcta, permitiendo trazar una línea de tendencia confiable y realizar estimaciones futuras.
+
 
 
